@@ -65,7 +65,7 @@ class Calc {
 
   static init = () => {
     this.#load()
-    // this.#output()
+    this.#output()
   }
 }
 
